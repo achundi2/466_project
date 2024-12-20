@@ -1,4 +1,5 @@
 # 466_project
+**Shalini Sivakumar, Anila Chundi, Ranjani Ramesh**
 RNA Secondary Structure Prediction
 This application utilizes the CB513 data set, parses it, and uses Viterbi algorithm and Baum Welch to predict the most probable sequence of secondary structures for a given amino acid sequence.
 
